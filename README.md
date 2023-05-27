@@ -3,7 +3,7 @@
 </p>
 
 ## 💻Projeto
-Esse é um projeto web responsivode uma cápsula do tempo para exibir memórias em uma linha do tempo
+Esse é um projeto web responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo
 
 ## 🚀Tecnologias
 Esse projeto foi desenvolvido duranto a NLW da Rocketseat com as seguintes tecnologias:
